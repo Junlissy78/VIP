@@ -1,0 +1,18 @@
+UserID: 6436260909 | Time: 2024-06-01 09:01:39.452513 | Command: /Attack | Target: 20.235.14.255 | Port: 12911 | Time: 180
+Username: @JJ_MODZ_OWNERRR
+Target: 20.235.14.255
+Port: 12911
+Time: 180
+
+UserID: 6779226201 | Time: 2024-06-01 09:03:04.995152 | Command: /Attack | Target: 20.204.181.170 | Port: 13163 | Time: 180
+Username: @JASHAN_CHEATERS
+Target: 20.204.181.170
+Port: 13163
+Time: 180
+
+UserID: 6436260909 | Time: 2024-06-01 09:11:09.641849 | Command: /Attack | Target: 20.235.14.255 | Port: 12911 | Time: 180
+Username: @JJ_MODZ_OWNERRR
+Target: 20.235.14.255
+Port: 12911
+Time: 180
+
