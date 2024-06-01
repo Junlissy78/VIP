@@ -1,0 +1,19 @@
+UserID: 1305141119 | Time: 2024-06-01 05:38:31.806702 | Command: /bgmi | Target: 20.235.18.188 | Port: 21552 | Time: 300
+Username: @JJ_MODZ_OWNER
+Target: 20.235.18.188
+Port: 21552
+Time: 300
+
+UserID: 6436260909 | Time: 2024-06-01 05:41:05.770352 | Command: /bgmi | Target: 20.198.107.78 | Port: 10534 | Time: 300
+Username: @JJ_MODZ_OWNERRR
+Target: 20.198.107.78
+Port: 10534
+Time: 300
+
+UserID: 1305141119 | Time: 2024-06-01 05:44:04.823084 | Command: /bgmi | Target: 52.140.18.12 | Port: 16985 | Time: 300
+UserID: 1305141119 | Time: 2024-06-01 05:45:51.406181 | Command: /bgmi | Target: 52.140.18.12 | Port: 16985 | Time: 300
+Username: @JJ_MODZ_OWNER
+Target: 52.140.18.12
+Port: 16985
+Time: 300
+
